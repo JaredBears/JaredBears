@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jared Bears
 - 👀 I’m interested in becoming a Software Development Engineer
-- 🌱 I’m currently learning Back End Development through Formation.dev.
 - Find my <a href="https://www.linkedin.com/in/jaredbears/">LinkedIn</a> if you'd like to connect!
 
 <!---
